@@ -277,3 +277,97 @@ padding:  10px 0px;
 .image-container img{
     width: 100%;
 }
+.Subscribe-Newsletter-container{
+    height: 620px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 210px;
+    
+
+}
+.Subscribe-Newsletter-content{
+    
+    text-align: center;
+}
+.Subscribe-Newsletter-content img{
+    margin-bottom: 50px;
+}
+.Subscribe-Newsletter-title{
+    margin-bottom: 20px;
+    color: #070211;
+    font-weight: 900;
+    font-size: 48px;
+}
+.subscribe-description{
+    color: #07021199;
+    font-size: 20px;
+    font-weight: 400;
+}
+form{
+    display: flex;
+    align-items: center;
+    display: block;
+    margin: 20px auto;
+    
+    
+}
+form input{
+    padding: 20px 30px;
+    width: 200px;
+    border:none;
+    outline: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+form button{
+    padding: 18px;
+    border:none;
+    outline: none;
+    background: #FF0000;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+}
+footer{
+    padding: 120px 140px;
+    background: #070211;
+}
+.footer-text-container{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-content{
+    color: white;
+}
+.address-text{
+    font-weight: 500;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+hr{
+    background: #FFFFFF26;
+}
+.social-media-container{
+    display: flex;
+    justify-content: center;
+}
+.social-media{
+    margin: 50px 0px;
+}
+.social-media a{
+    font-size: 64px;
+    padding: 25px;
+}
+.footer-lower-part{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.last-text{
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}
