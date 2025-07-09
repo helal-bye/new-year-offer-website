@@ -124,3 +124,39 @@ header{
     margin-top: 50px;
 
 }
+.address-and-time-section{
+    height: 480px;
+    padding: 100px 380px;
+    background:  linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    margin-bottom: 120px;
+}
+.address-and-time{
+    font-weight: 600;
+    font-size: 32px;
+    text-align: center;
+    
+}
+.place,.time,.date{
+padding:  10px 0px;
+}
+.time-and-date-color{
+    color: #FF0000;
+}
+.time-btn-join{
+    font-weight: 700;
+    font-size: 20px;
+    padding: 16px 32px;
+    background: #FF0000;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    color: white;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
