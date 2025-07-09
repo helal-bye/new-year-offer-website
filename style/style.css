@@ -160,3 +160,91 @@ padding:  10px 0px;
     margin: 0 auto;
     margin-top: 20px;
 }
+.new-offer-coming-soon-container{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+}
+.best-offer{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+    margin-bottom: 16px;
+}
+.coming-soon{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.coming-description{
+    font-weight: 400;
+    font-size: 20px;
+    color: #07021199;
+}
+.flames-pic{
+    border: 15px solid #FF0000;
+    border-radius: 50%;
+    padding: 10px;
+    width: 100%;
+}
+.new-offer-title{
+    font-weight: 700;
+    font-size: 48px;
+    margin-bottom: 20px;
+    color:#FF0000;
+}
+.description-margin{
+    margin-bottom: 50px;
+}
+/* holidays section start */
+.holiday-seals-container{
+    margin: 120px 0px;
+    text-align: center;
+
+}
+.function-title{
+    color: #070211;
+    font-weight: 500;
+    font-size: 24px;
+    margin-bottom: 20px;
+
+}
+.Holidays-text{
+    color:#FF0000;
+    
+}
+.holiday-seals{
+    font-weight: 900;
+    font-size: 72px;
+    margin-bottom: 30px;
+  
+}
+.holidays-description{
+    font-size: 20px;
+    font-weight: 500;
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+    color: #07021199;
+}
+.red-portion{
+    background: #FF0000;
+    height: 230px;
+    position: relative;
+    border-radius: 16px;
+    margin: 120px;
+   
+}
+.gift{
+    position: absolute;
+    bottom: 10px;
+
+}
+.discount{
+    position:absolute;
+    right: 10px;
+    bottom: 230px;
+}
+
+
