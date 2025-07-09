@@ -246,5 +246,34 @@ padding:  10px 0px;
     right: 10px;
     bottom: 230px;
 }
-
-
+.awesome-portfoloi-section{
+    margin: 120px;
+}
+.the-best-gift-title{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #FF0000;
+}
+.portfolio-title{
+    font-weight: 900;
+    font-size: 48px;
+    color: #070211;
+    margin-bottom: 20px;
+}
+.portfolio-description{
+    font-weight: 400;
+    font-size: 20px;
+    color: #07021199;
+    width: 75%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.portfolio-img-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap:24px;
+}
+.image-container img{
+    width: 100%;
+}
