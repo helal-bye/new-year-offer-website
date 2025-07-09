@@ -71,3 +71,56 @@ header{
     font-weight: 500;
     margin-top: 50px;
 }
+.category-title{
+    text-align: center;
+    color: #070211;
+    font-weight: 700;
+    font-size: 48px;
+    margin-top: 20px;
+}
+.happy-new-year-img-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+/* start welcome midnight party */
+.midnight-party-content{
+    margin: 120px 0px;
+    border-radius: 16px;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url('../images/Vectorrr.png');
+    height: 600px;
+    display: flex;
+    padding: 70px 130px;
+    align-items: center;
+
+    
+}
+.welcome-party{
+    color: #FFFFFF;
+    font-weight: 900;
+    font-size: 64px;
+    text-align: center;
+    width: 75%;
+    margin-top: 25px;
+
+}
+.welcome-party-description{
+    color: #FFFFFFCC;
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 50px;
+    text-align: center;
+}
+.btn-join-now{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    background: transparent;
+    border:none;
+    outline: none;
+    text-align: center;
+    width: 50%;
+    margin-top: 50px;
+
+}
